@@ -1,5 +1,5 @@
 # smartlog-show
-#### 为保护产权，只展示截图
+## 主要技术：django layer jquery ajax
 
 ![Image text](https://raw.githubusercontent.com/yamooxue/smartlog-show/master/image/1.png
 )
